@@ -32,9 +32,9 @@ const instructions = Platform.select({
 });
 const scenes = {
   
-  Mine: {
-    screen: MineScreen,
-  },
+  // Mine: {
+  //   screen: MineScreen,
+  // },
   Home: {
     screen: RnIndex,
 },
